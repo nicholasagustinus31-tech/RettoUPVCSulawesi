@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#111213" />
+      <stop offset="100%" stop-color="#ff0000" />
+    </linearGradient>
+    <style>
+      .title { font: 700 72px 'Poppins', sans-serif; fill: #ffffff; letter-spacing: 2px; }
+      .subtitle { font: 400 36px 'Poppins', sans-serif; fill: rgba(255,255,255,0.82); }
+    </style>
+  </defs>
+  <rect width="1200" height="800" rx="48" fill="url(#grad)" />
+  <rect x="80" y="80" width="1040" height="640" rx="36" fill="rgba(12,13,14,0.3)" />
+  <text x="120" y="340" class="title">Grand Residence</text>
+  <text x="120" y="430" class="subtitle">Folding Door Kolam Renang</text>
+</svg>
